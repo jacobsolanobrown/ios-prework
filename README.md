@@ -1,11 +1,9 @@
-# ios-prework
 # Prework - *IOS PREWORK*
 
-Submitted by: **Your Name Here**
+Submitted by: **Jacob Solano**
 
-**Name of your app** is an app that... [TODO] 
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Required Features
 
@@ -16,11 +14,11 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-    <a href="https://www.loom.com/share/aabdba3e76714ea68320e1c1c989cea8">
-    </a>
+<div>
     <a href="https://www.loom.com/share/aabdba3e76714ea68320e1c1c989cea8">
       <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/aabdba3e76714ea68320e1c1c989cea8-ae4ad839518690bd-full-play.gif">
     </a>
+</div>
 
 ## App Brainstorming (Step 4)
 
